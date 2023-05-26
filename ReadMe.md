@@ -7,3 +7,8 @@ Use this for create model [Project](https://colab.research.google.com/drive/1c8G
 Model 2 (https://colab.research.google.com/drive/1B4T_w-VdFKasIt85vs6AcVebXQQngCi1?usp=sharing)
 
 Model 2.1 (https://colab.research.google.com/drive/1B4T_w-VdFKasIt85vs6AcVebXQQngCi1?usp=sharing)
+
+Update :
+- Data Augmentation (in process)
+- Add layer and epoch 
+Model 2.2 (https://colab.research.google.com/drive/1B4T_w-VdFKasIt85vs6AcVebXQQngCi1?usp=sharing)
