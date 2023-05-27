@@ -12,4 +12,5 @@ Update :
 - Data Augmentation (done)
 - Add layer and epoch (done but 20 epoch with diffrent layer)
 - Preprocessing with EDGE DETECTION (done)
+
 Model 2.2 (https://colab.research.google.com/drive/1ZDMa9SPrt1WmkApEx7GXk29y-cz5g9kf?usp=sharing)
