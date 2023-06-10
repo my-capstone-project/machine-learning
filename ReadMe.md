@@ -3,6 +3,8 @@
 ## File Model
 (https://drive.google.com/drive/folders/1Vc2bo_CMynsci27dUL6g0d68eHrmeZ0F?usp=share_link)
 
+Model v2 (data cleaned): [link model](https://drive.google.com/drive/folders/1zHsZJNdWORsOYNBlpO9rx2CNDMsWQSbO)
+
 ## Google Collab
 
 Use this for create model [Project](https://colab.research.google.com/drive/1c8GScOyBa0pCdAXGvz5lQTYeB21NW6Jj "Project Google Collab").
